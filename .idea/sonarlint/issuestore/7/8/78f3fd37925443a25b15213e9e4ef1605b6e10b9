@@ -1,0 +1,5 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÅŠ®íüÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(¬¨êøÿÿÿÿÿ
+Usquid:S1610"9Convert the abstract class "HTTPUtils" into an interface.(¬¨êøÿÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
